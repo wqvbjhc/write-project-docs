@@ -1,0 +1,14 @@
+{
+  "name": "write-project-docs-marketplace",
+  "owner": {
+    "name": "chenjihong"
+  },
+  "plugins": [
+    {
+      "name": "write-project-docs",
+      "source": ".",
+      "description": "Systematic technical documentation methodology for mature projects.",
+      "version": "1.0.0"
+    }
+  ]
+}
