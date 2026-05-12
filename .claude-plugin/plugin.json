@@ -1,0 +1,10 @@
+{
+  "name": "write-project-docs",
+  "version": "1.0.0",
+  "description": "Systematic technical documentation methodology for mature projects. Supports ML, backend, frontend, SDK, CLI, Go, C/C++, Rust, DevOps, and mobile projects.",
+  "author": {
+    "name": "chenjihong"
+  },
+  "license": "MIT",
+  "keywords": ["documentation", "technical-writing", "docs", "readme"]
+}
