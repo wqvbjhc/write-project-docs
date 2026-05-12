@@ -6,7 +6,10 @@
   "plugins": [
     {
       "name": "write-project-docs",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "wqvbjhc/write-project-docs-plugin"
+      },
       "description": "Systematic technical documentation methodology for mature projects.",
       "version": "1.0.0"
     }
