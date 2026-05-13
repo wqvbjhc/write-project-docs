@@ -1,10 +1,10 @@
 {
   "name": "write-project-docs",
-  "version": "1.0.0",
-  "description": "Systematic technical documentation methodology for mature projects. Supports ML, backend, frontend, SDK, CLI, Go, C/C++, Rust, DevOps, and mobile projects.",
+  "version": "2.0.0",
+  "description": "Systematic technical documentation methodology for mature projects. Supports ML, backend, frontend, SDK, CLI, Go, C/C++, Rust, DevOps, mobile, monorepo, and data engineering projects. Five-phase workflow with two-agent validation.",
   "author": {
     "name": "chenjihong"
   },
   "license": "MIT",
-  "keywords": ["documentation", "technical-writing", "docs", "readme"]
+  "keywords": ["documentation", "technical-writing", "docs", "readme", "api-reference", "onboarding", "project-docs"]
 }
