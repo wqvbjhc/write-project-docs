@@ -1,0 +1,23 @@
+.claude-plugin/marketplace.json
+  992f066ba41cb754 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.14",
+  "base_commit_sha": "31fec9a4d5f6026ca63c023a42391bb1cc53d827",
+  "prompts": {
+    "992f066ba41cb754": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34b952fe-c8d4-48ce-88ca-75a98f1549d6",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "chenjihong <chenjihong@cvte.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 4,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
