@@ -120,16 +120,18 @@ CUDA_VISIBLE_DEVICES="0" python train.py \
 
 ## Installation
 
-In Claude Code, run:
+```bash
+# Step 1: Add the marketplace
+claude plugin marketplace add github:wqvbjhc/write-project-docs
 
-```
-/plugin install wqvbjhc/write-project-docs
+# Step 2: Install the plugin
+claude plugin install write-project-docs
 ```
 
-Or clone manually into your project:
+Or load directly for a single session (no install needed):
 
 ```bash
-git clone https://github.com/wqvbjhc/write-project-docs.git
+claude --plugin-dir /path/to/write-project-docs
 ```
 
 ## Usage
