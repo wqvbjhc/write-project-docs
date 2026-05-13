@@ -1,0 +1,23 @@
+README.md
+  992f066ba41cb754 123-125,127-128,131,134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.14",
+  "base_commit_sha": "8a90cba259318344b6ea4e0a6f6429c14bb7a029",
+  "prompts": {
+    "992f066ba41cb754": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34b952fe-c8d4-48ce-88ca-75a98f1549d6",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "chenjihong <chenjihong@cvte.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 5,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
