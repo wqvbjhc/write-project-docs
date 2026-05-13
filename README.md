@@ -120,11 +120,13 @@ CUDA_VISIBLE_DEVICES="0" python train.py \
 
 ## Installation
 
-```bash
-claude install-skill wqvbjhc/write-project-docs
+In Claude Code, run:
+
+```
+/plugin install wqvbjhc/write-project-docs
 ```
 
-Or clone manually:
+Or clone manually into your project:
 
 ```bash
 git clone https://github.com/wqvbjhc/write-project-docs.git
