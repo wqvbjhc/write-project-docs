@@ -10,8 +10,7 @@
         "source": "github",
         "repo": "wqvbjhc/write-project-docs"
       },
-      "description": "Systematic technical documentation methodology for mature projects.",
-      "version": "1.0.0"
+      "description": "Systematic technical documentation methodology for mature projects. Supports ML, backend, frontend, SDK, CLI, Go, C/C++, Rust, DevOps, mobile, monorepo, and data engineering projects. Five-phase workflow with two-agent validation."
     }
   ]
 }
