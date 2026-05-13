@@ -1,0 +1,51 @@
+README.md
+  992f066ba41cb754 3,5-6,8,10-68,70,72-92,94-121,124,127,129-131,135,138-142,145,147-149,151,159-178
+skills/write-project-docs/refs/error-patterns.md
+  992f066ba41cb754 1-37
+skills/write-project-docs/refs/templates.md
+  992f066ba41cb754 1-124
+.claude-plugin/plugin.json
+  992f066ba41cb754 3-4,9
+skills/write-project-docs/SKILL.md
+  992f066ba41cb754 4-11,14,16,18,20,22,26,31,36,38,40-43,45-49,51-52,54-55,57-64,66-72,74,76,78-82,85-91,93-96,98,102,104,106,108,110-116,118-119,121,125,127,129-133,135,137,139,141,143,147,149,151,153,155,157-162,164-169,171-175,177,181,183-186,188-197,201-216,220,222-226
+skills/write-project-docs/refs/project-types.md
+  992f066ba41cb754 1-118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.14",
+  "base_commit_sha": "589d953984931880e131c891df2ff2245942a458",
+  "prompts": {
+    "992f066ba41cb754": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34b952fe-c8d4-48ce-88ca-75a98f1549d6",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "chenjihong <chenjihong@cvte.com>",
+      "messages": [],
+      "total_additions": 740,
+      "total_deletions": 459,
+      "accepted_lines": 601,
+      "overriden_lines": 0
+    },
+    "fbd0a7434a0e56c7": {
+      "agent_id": {
+        "tool": "known_human",
+        "id": "known_human_session",
+        "model": "unknown"
+      },
+      "human_author": "chenjihong <chenjihong@cvte.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 2,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_e38b6151ae28e5": {
+      "author": "chenjihong"
+    }
+  }
+}
